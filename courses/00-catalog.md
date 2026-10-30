@@ -1,6 +1,6 @@
 # Course catalog
 
-Study in this order. Each file is a whole course: the language or library itself, in lessons made of a short explanation, a table, and a standalone example. A résumé project is mentioned only where that lesson is one you actually shipped.
+Study in this order. Each file is a whole course. Every numbered section has the concept, a term table, a method or property table, several cases with a result, common mistakes, a tip, and a practice with a solution. A résumé project is mentioned only where that lesson is one you actually shipped.
 
 The short lesson folders that used to sit next to this catalog were removed. They taught only the slice from your projects.
 
@@ -22,4 +22,4 @@ The short lesson folders that used to sit next to this catalog were removed. The
 | 14 | Vitest | [14-vitest.md](14-vitest.md) |
 | 15 | Java | [15-java.md](15-java.md) |
 
-How to study one lesson: read the table, type the example with autocomplete off, then change one value and predict the result before you run it.
+How to study one lesson: read the concept and the tables, type one case with autocomplete off, then change one value and predict the result before you run it.
